@@ -1,0 +1,7 @@
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.AssemblyReference.cache
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\localacc\Desktop\programming\csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb

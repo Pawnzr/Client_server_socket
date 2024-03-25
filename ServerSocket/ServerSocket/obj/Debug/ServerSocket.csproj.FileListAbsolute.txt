@@ -1,0 +1,7 @@
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csproj.AssemblyReference.cache
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\localacc\Desktop\programming\csharp\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb
